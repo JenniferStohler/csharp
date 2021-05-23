@@ -1,0 +1,16 @@
+C:\Users\JStohler\Documents\githubweek9\csharp\bin\Debug\net5.0\csharp.exe
+C:\Users\JStohler\Documents\githubweek9\csharp\bin\Debug\net5.0\csharp.deps.json
+C:\Users\JStohler\Documents\githubweek9\csharp\bin\Debug\net5.0\csharp.runtimeconfig.json
+C:\Users\JStohler\Documents\githubweek9\csharp\bin\Debug\net5.0\csharp.runtimeconfig.dev.json
+C:\Users\JStohler\Documents\githubweek9\csharp\bin\Debug\net5.0\csharp.dll
+C:\Users\JStohler\Documents\githubweek9\csharp\bin\Debug\net5.0\ref\csharp.dll
+C:\Users\JStohler\Documents\githubweek9\csharp\bin\Debug\net5.0\csharp.pdb
+C:\Users\JStohler\Documents\githubweek9\csharp\obj\Debug\net5.0\csharp.csprojAssemblyReference.cache
+C:\Users\JStohler\Documents\githubweek9\csharp\obj\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JStohler\Documents\githubweek9\csharp\obj\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+C:\Users\JStohler\Documents\githubweek9\csharp\obj\Debug\net5.0\csharp.AssemblyInfo.cs
+C:\Users\JStohler\Documents\githubweek9\csharp\obj\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\JStohler\Documents\githubweek9\csharp\obj\Debug\net5.0\csharp.dll
+C:\Users\JStohler\Documents\githubweek9\csharp\obj\Debug\net5.0\ref\csharp.dll
+C:\Users\JStohler\Documents\githubweek9\csharp\obj\Debug\net5.0\csharp.pdb
+C:\Users\JStohler\Documents\githubweek9\csharp\obj\Debug\net5.0\csharp.genruntimeconfig.cache
